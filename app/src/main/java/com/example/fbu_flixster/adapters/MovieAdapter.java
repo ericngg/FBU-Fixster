@@ -83,8 +83,11 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
                 imageUrl = movie.getPosterPath();
             }
 
-            Glide.with(context).load(imageUrl).placeholder(R.mipmap.place_holder).into(ivPoster);
+            Glide.with(context).load(imageUrl).into(ivPoster);
+            //Glide.with(context).load(imageUrl).placeholder(R.mipmap.place_holder).into(ivPoster);
+            // placeholder is buggy on my emulator, but works on my physical phone. I will just emit it.
             //Glide.with(context).load(imageUrl).transform(new RoundedCornersTransformation(1, 0)).into(ivPoster);
+            // glide transformation is buggy on my emulator, but works on my physical phone. I will just emit it.
         }
 
         @Override
