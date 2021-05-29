@@ -28,9 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Portrait:
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://github.com/ericngg/FBU-Fixster/blob/main/demoP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Landscape:
+
+<img src='https://github.com/ericngg/FBU-Fixster/blob/main/demoL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
 
