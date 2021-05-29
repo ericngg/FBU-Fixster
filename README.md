@@ -36,6 +36,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/ericngg/FBU-Fixster/blob/main/demoL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+**Gifs do not show youtube player functionality because my emulator did not have youtube. Clicking on the youtube button will open a trailer to the movie.**
+
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
